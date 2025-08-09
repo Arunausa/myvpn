@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+/build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# NDK/Native
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystores
+*.jks
+*.keystore
